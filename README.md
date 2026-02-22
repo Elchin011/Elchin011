@@ -63,8 +63,23 @@
 
   <!-- Strapi -->
   <a href="https://strapi.io/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/strapi/strapi-original.svg" width="40"/>
-  </a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/strapi/strapi-original.svg" width="40"/>
+</a>
+
+  <!-- Sequelize -->
+<a href="https://sequelize.org/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" width="40"/>
+</a>
+
+<!-- Postman -->
+<a href="https://www.postman.com/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40"/>
+</a>
+
+<!-- Figma -->
+<a href="https://www.figma.com/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40"/>
+</a>
 
   <!-- MongoDB -->
   <a href="https://www.mongodb.com/" target="_blank">
