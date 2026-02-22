@@ -61,11 +61,6 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40"/>
   </a>
 
-  <!-- Strapi -->
-  <a href="https://strapi.io/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/strapi/strapi-original.svg" width="40"/>
-</a>
-
   <!-- Sequelize -->
 <a href="https://sequelize.org/" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" width="40"/>
