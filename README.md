@@ -1,5 +1,5 @@
 <h1 align="center">I'm Elchin Yusifov</h1>
-<h3 align="center">Full-Stack Developer</h3>
+<h3 align="center">MERN Stack Developer</h3>
 
 ---
 
